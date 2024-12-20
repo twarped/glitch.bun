@@ -1,0 +1,4 @@
+/* GNU ld script
+*/
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libm.so.6  AS_NEEDED ( /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libmvec_nonshared.a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libmvec.so.1 ) )

@@ -1,0 +1,2012 @@
+Archive member included to satisfy reference by file (symbol)
+
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__libc_check_standard_fds)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os) (__libc_errno)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__sigsetjmp)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__longjmp)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (strchr)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (strcmp)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__strdup)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (strlen)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (strnlen)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (memchr)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (memcmp)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os) (__GI_memmove)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (memset)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__mempcpy)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__stpcpy)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+                              (memcpy@@GLIBC_2.14)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (rawmemchr)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os) (__strcmp_ssse3)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os) (__strcmp_sse2_unaligned)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os) (__memcmp_sse4_1)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os) (__memmove_ssse3)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os) (__mempcpy_ssse3_back)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os) (__memmove_ssse3_back)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os) (__mempcpy_avx512_no_vzeroupper)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os) (__stpcpy_ssse3)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os) (__stpcpy_sse2_unaligned)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os) (__strchr_sse2_no_bsf)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os) (__memcmp_ssse3)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os) (__memset_avx512_no_vzeroupper)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os) (__mempcpy_avx_unaligned)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os) (__mempcpy_avx512_unaligned)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os) (__memset_avx2_unaligned)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os) (__memset_avx512_unaligned)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os) (__x86_shared_non_temporal_threshold)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__closedir)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__readdir)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__rewinddir)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os) (__getdents)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__fdopendir)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__uname)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__GI__exit)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__getpid)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__environ)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__GI___xstat64)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__GI___fxstat64)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__GI___lxstat64)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__open)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__libc_read)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__libc_write)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os) (__GI___lseek)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__access)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os) (__GI___libc_fcntl)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__close)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__mmap)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__munmap)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__mprotect)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (__profil)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os) (__GI___profile_frequency)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os) (__lll_lock_wait_private)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os) (__libc_enable_asynccancel)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os) (__libc_multiple_threads)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os (_dl_addr_inside_object)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os) (__GI___sigaction)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os) (__setitimer)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os) (__pthread_unwind)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os) (__GI_exit)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os) (__exit_funcs)
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                              /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os) (__GI___call_tls_dtors)
+
+Memory Configuration
+
+Name             Origin             Length             Attributes
+*default*        0x0000000000000000 0xffffffffffffffff
+
+Linker script and memory map
+
+                0x0000000000000000                __stack_chk_fail = 0x0
+                0x0000000000000000                __stack_chk_fail_local = 0x0
+START GROUP
+LOAD /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+LOAD /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a
+LOAD /usr/lib/gcc/x86_64-linux-gnu/5/libgcc.a
+END GROUP
+
+.interp
+ *(.interp)
+
+.note.gnu.build-id
+ *(.note.gnu.build-id)
+
+.hash
+ *(.hash)
+
+.gnu.hash
+ *(.gnu.hash)
+
+.dynsym
+ *(.dynsym)
+
+.dynstr
+ *(.dynstr)
+
+.gnu.version
+ *(.gnu.version)
+
+.gnu.version_d
+ *(.gnu.version_d)
+
+.gnu.version_r
+ *(.gnu.version_r)
+
+.rela.init
+ *(.rela.init)
+
+.rela.text
+ *(.rela.text)
+
+.rela.fini
+ *(.rela.fini)
+
+.rela.rodata
+ *(.rela.rodata)
+
+.rela.data.rel.ro
+ *(.rela.data.rel.ro)
+
+.rela.data
+ *(.rela.data)
+
+.rela.tdata
+ *(.rela.tdata)
+
+.rela.tbss
+ *(.rela.tbss)
+
+.rela.ctors
+ *(.rela.ctors)
+
+.rela.dtors
+ *(.rela.dtors)
+
+.rela.got
+ *(.rela.got)
+
+.rela.bss
+ *(.rela.bss)
+
+.rela.ldata
+ *(.rela.ldata)
+
+.rela.lbss
+ *(.rela.lbss)
+
+.rela.lrodata
+ *(.rela.lrodata)
+
+.rela.ifunc
+ *(.rela.ifunc)
+
+.rela.plt
+ *(.rela.plt)
+
+.init
+ *(SORT(.init))
+
+.plt
+ *(.plt)
+ *(.iplt)
+
+.plt.got
+ *(.plt.got)
+
+.plt.bnd
+ *(.plt.bnd)
+
+.text           0x0000000000000000    0x1d505
+ *(.text .stub)
+ .text          0x0000000000000000    0x17ca0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+                0x0000000000000000                _start
+                0x0000000000000008                _dl_start_user
+                0x00000000000066d0                _dl_dst_count
+                0x0000000000006780                _dl_dst_substitute
+                0x0000000000007080                _dl_init_paths
+                0x00000000000074c0                _dl_map_object
+                0x0000000000007ec0                _dl_rtld_di_serinfo
+                0x0000000000008e20                _dl_lookup_symbol_x
+                0x0000000000009ee0                _dl_setup_hash
+                0x0000000000009f90                _dl_add_to_namespace_list
+                0x000000000000a020                _dl_new_object
+                0x000000000000a3c0                _dl_try_allocate_static_tls
+                0x000000000000a4a0                _dl_allocate_static_tls
+                0x000000000000a4d0                _dl_nothread_init_static_tls
+                0x000000000000a510                _dl_protect_relro
+                0x000000000000a570                _dl_reloc_bad_type
+                0x000000000000a640                _dl_relocate_object
+                0x000000000000c050                _dl_map_object_deps
+                0x000000000000d2f0                _dl_important_hwcaps
+                0x000000000000dac0                _dl_fixup
+                0x000000000000dc90                _dl_profile_fixup
+                0x000000000000e290                _dl_call_pltexit
+                0x000000000000e4c0                _dl_init
+                0x000000000000e5f0                _dl_sort_fini
+                0x000000000000e830                _dl_fini
+                0x000000000000ebc0                _dl_debug_state
+                0x000000000000ebc0                __GI__dl_debug_state
+                0x000000000000ebd0                _dl_debug_initialize
+                0x000000000000f240                _dl_sysdep_read_whole_file
+                0x000000000000f2d0                _dl_debug_printf
+                0x000000000000f380                _dl_debug_printf_c
+                0x000000000000f430                _dl_dprintf
+                0x000000000000f4d0                _dl_name_match_p
+                0x000000000000f540                _dl_higher_prime_number
+                0x000000000000f9c0                _dl_check_map_versions
+                0x000000000000fe80                _dl_check_all_versions
+                0x000000000000fef0                _dl_start_profile
+                0x00000000000106d0                __GI__dl_mcount
+                0x00000000000106d0                _dl_mcount
+                0x0000000000010930                _dl_resolve_conflicts
+                0x0000000000010dc0                _dl_next_tls_modid
+                0x0000000000010ec0                _dl_count_modids
+                0x0000000000010f20                _dl_determine_tlsoffset
+                0x00000000000110f0                _dl_get_tls_static_info
+                0x0000000000011110                _dl_allocate_tls_storage
+                0x00000000000111d0                __GI__dl_allocate_tls_init
+                0x00000000000111d0                _dl_allocate_tls_init
+                0x0000000000011450                __GI__dl_allocate_tls
+                0x0000000000011450                _dl_allocate_tls
+                0x0000000000011490                _dl_deallocate_tls
+                0x0000000000011490                __GI__dl_deallocate_tls
+                0x0000000000011510                _dl_update_slotinfo
+                0x00000000000117a0                __GI___tls_get_addr
+                0x00000000000117a0                __tls_get_addr
+                0x00000000000117e0                _dl_tls_get_addr_soft
+                0x0000000000011860                _dl_add_to_slotinfo
+                0x0000000000011940                _dl_get_origin
+                0x0000000000011ac0                _dl_scope_free
+                0x0000000000011b90                _dl_make_stack_executable
+                0x0000000000011b90                __GI__dl_make_stack_executable
+                0x0000000000011c20                _dl_check_caller
+                0x0000000000012050                __GI__dl_find_dso_for_object
+                0x0000000000012050                _dl_find_dso_for_object
+                0x0000000000012110                _dl_open
+                0x0000000000012520                _dl_show_scope
+                0x00000000000130e0                _dl_close_worker
+                0x0000000000014040                _dl_close
+                0x00000000000140b0                _dl_runtime_resolve_avx512_opt
+                0x00000000000140e0                _dl_runtime_resolve_avx512
+                0x0000000000014250                _dl_runtime_profile_avx512
+                0x00000000000146d0                _dl_runtime_resolve_avx_slow
+                0x0000000000014710                _dl_runtime_resolve_avx_opt
+                0x0000000000014730                _dl_runtime_resolve_avx
+                0x0000000000014890                _dl_runtime_profile_avx
+                0x0000000000014d10                _dl_runtime_resolve_sse
+                0x0000000000014e50                _dl_runtime_profile_sse
+                0x0000000000015050                _dl_runtime_resolve_sse_vex
+                0x00000000000151a0                _dl_cache_libcmp
+                0x0000000000015280                _dl_load_cache_lookup
+                0x0000000000015840                _dl_unload_cache
+                0x0000000000015880                _dl_make_tlsdesc_dynamic
+                0x0000000000015b50                _dl_tlsdesc_resolve_rela_fixup
+                0x0000000000015d10                _dl_tlsdesc_resolve_hold_fixup
+                0x0000000000015d50                _dl_unmap
+                0x0000000000015dd0                _dl_tlsdesc_return
+                0x0000000000015de0                _dl_tlsdesc_undefweak
+                0x0000000000015df0                _dl_tlsdesc_dynamic
+                0x0000000000015e90                _dl_tlsdesc_resolve_rela
+                0x0000000000015f00                _dl_tlsdesc_resolve_hold
+                0x0000000000015f80                __get_cpu_features
+                0x00000000000160e0                _dl_sysdep_start
+                0x00000000000166b0                _dl_sysdep_start_cleanup
+                0x00000000000166c0                _dl_show_auxv
+                0x0000000000016870                _dl_discover_osversion
+                0x0000000000016a40                _dl_next_ld_env_entry
+                0x0000000000016a90                unsetenv
+                0x0000000000016b00                malloc
+                0x0000000000016c10                calloc
+                0x0000000000016c50                free
+                0x0000000000016c80                __sigjmp_save
+                0x0000000000016c90                __strerror_r
+                0x0000000000016d70                __GI___libc_fatal
+                0x0000000000016d70                __libc_fatal
+                0x0000000000016da0                __GI___chk_fail
+                0x0000000000016da0                __chk_fail
+                0x0000000000016db0                __GI___assert_fail
+                0x0000000000016db0                __assert_fail
+                0x0000000000016e00                realloc
+                0x0000000000016e90                __GI___assert_perror_fail
+                0x0000000000016e90                __assert_perror_fail
+                0x0000000000016f00                __strtoul_internal
+                0x00000000000170d0                _itoa
+                0x0000000000017120                __strsep
+                0x0000000000017120                strsep
+                0x0000000000017120                __strsep_g
+                0x00000000000171b0                _dl_signal_error
+                0x0000000000017350                _dl_signal_cerror
+                0x00000000000173e0                _dl_catch_error
+                0x00000000000174b0                _dl_receive_error
+                0x00000000000174f0                __brk
+                0x00000000000174f0                brk
+                0x0000000000017540                sbrk
+                0x0000000000017540                __sbrk
+                0x00000000000175d0                __getcwd
+                0x00000000000175d0                getcwd
+                0x0000000000017a30                openat64
+                0x0000000000017aa0                __alloc_dir
+                0x0000000000017ba0                __opendir
+                0x0000000000017ba0                opendir
+                0x0000000000017c50                __fxstatat
+                0x0000000000017c50                __fxstatat64
+                0x0000000000017c50                __GI___fxstatat64
+ .text          0x0000000000017ca0       0xf2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+                0x0000000000017d60                __libc_check_standard_fds
+ .text          0x0000000000017d92        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ *fill*         0x0000000000017d92        0xe 
+ .text          0x0000000000017da0       0x57 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+                0x0000000000017da0                __sigsetjmp
+                0x0000000000017da0                __GI___sigsetjmp
+ *fill*         0x0000000000017df7        0x9 
+ .text          0x0000000000017e00       0x50 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+                0x0000000000017e00                __longjmp
+ .text          0x0000000000017e50      0x24a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+                0x0000000000017e50                index
+                0x0000000000017e50                strchr
+                0x0000000000017e80                __strchr_sse2
+                0x0000000000017e80                __GI_strchr
+ *fill*         0x000000000001809a        0x6 
+ .text          0x00000000000180a0     0x1479 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+                0x00000000000180a0                strcmp
+                0x00000000000180e0                __strcmp_sse2
+                0x00000000000180e0                __GI_strcmp
+ *fill*         0x0000000000019519        0x7 
+ .text          0x0000000000019520       0x41 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+                0x0000000000019520                __GI___strdup
+                0x0000000000019520                __strdup
+                0x0000000000019520                strdup
+ *fill*         0x0000000000019561        0xf 
+ .text          0x0000000000019570      0x19c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+                0x0000000000019570                strlen
+                0x0000000000019570                __GI_strlen
+ *fill*         0x000000000001970c        0x4 
+ .text          0x0000000000019710      0x218 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+                0x0000000000019710                __strnlen
+                0x0000000000019710                strnlen
+                0x0000000000019710                __GI___strnlen
+                0x0000000000019710                __GI_strnlen
+ *fill*         0x0000000000019928        0x8 
+ .text          0x0000000000019930      0x354 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+                0x0000000000019930                __GI_memchr
+                0x0000000000019930                memchr
+                0x0000000000019930                __memchr
+ *fill*         0x0000000000019c84        0xc 
+ .text          0x0000000000019c90      0x440 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+                0x0000000000019c90                bcmp
+                0x0000000000019c90                memcmp
+                0x0000000000019cd0                __GI_memcmp
+                0x0000000000019cd0                __memcmp_sse2
+ .text          0x000000000001a0d0      0x4a9 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+                0x000000000001a0d0                memmove
+                0x000000000001a0d0                __libc_memmove
+                0x000000000001a1b0                __mempcpy_chk_sse2_unaligned
+                0x000000000001a1c0                __GI_mempcpy
+                0x000000000001a1c0                __mempcpy_sse2_unaligned
+                0x000000000001a1c0                __GI___mempcpy
+                0x000000000001a1d0                __memcpy_chk_sse2_unaligned
+                0x000000000001a1d0                __memmove_chk_sse2_unaligned
+                0x000000000001a1e0                __memmove_sse2_unaligned
+                0x000000000001a1e0                __GI_memmove
+                0x000000000001a1e0                __GI_memcpy
+                0x000000000001a1e0                __memcpy_sse2_unaligned
+                0x000000000001a1e0                memcpy@GLIBC_2.2.5
+                0x000000000001a210                __mempcpy_erms
+                0x000000000001a220                __memmove_erms
+                0x000000000001a220                __memcpy_erms
+                0x000000000001a250                __mempcpy_chk_sse2_unaligned_erms
+                0x000000000001a260                __mempcpy_sse2_unaligned_erms
+                0x000000000001a270                __memmove_chk_sse2_unaligned_erms
+                0x000000000001a270                __memcpy_chk_sse2_unaligned_erms
+                0x000000000001a280                __memmove_sse2_unaligned_erms
+                0x000000000001a280                __memcpy_sse2_unaligned_erms
+ *fill*         0x000000000001a579        0x7 
+ .text          0x000000000001a580      0x1f3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+                0x000000000001a580                memset
+                0x000000000001a620                __bzero
+                0x000000000001a620                bzero
+                0x000000000001a630                __memset_chk_sse2_unaligned
+                0x000000000001a640                __GI_memset
+                0x000000000001a640                __memset_sse2_unaligned
+                0x000000000001a670                __memset_erms
+                0x000000000001a680                __memset_chk_sse2_unaligned_erms
+                0x000000000001a690                __memset_sse2_unaligned_erms
+ *fill*         0x000000000001a773        0xd 
+ .text          0x000000000001a780       0xd1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+                0x000000000001a780                mempcpy
+                0x000000000001a780                __mempcpy
+ *fill*         0x000000000001a851        0xf 
+ .text          0x000000000001a860      0x11c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+                0x000000000001a860                stpcpy
+                0x000000000001a860                __stpcpy
+                0x000000000001a8a0                __GI_stpcpy
+                0x000000000001a8a0                __GI___stpcpy
+                0x000000000001a8a0                __stpcpy_sse2
+ *fill*         0x000000000001a97c        0x4 
+ .text          0x000000000001a980       0xd1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+                0x000000000001a980                __new_memcpy
+                0x000000000001a980                memcpy@@GLIBC_2.14
+ *fill*         0x000000000001aa51        0xf 
+ .text          0x000000000001aa60      0x204 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+                0x000000000001aa60                __GI___rawmemchr
+                0x000000000001aa60                __rawmemchr
+                0x000000000001aa60                rawmemchr
+ .text          0x000000000001ac64        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ *fill*         0x000000000001ac64        0xc 
+ .text          0x000000000001ac70      0x2a3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+                0x000000000001ac70                __strcmp_sse2_unaligned
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .text          0x000000000001af13        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ *fill*         0x000000000001af13        0xd 
+ .text          0x000000000001af20      0x6b0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+                0x000000000001af20                __stpcpy_sse2_unaligned
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .text          0x000000000001b5d0        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .text          0x000000000001b5d0      0x5b0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+                0x000000000001bb50                __cache_sysconf
+ .text          0x000000000001bb80       0x54 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+                0x000000000001bb80                __closedir
+                0x000000000001bb80                closedir
+ *fill*         0x000000000001bbd4        0xc 
+ .text          0x000000000001bbe0       0xf8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+                0x000000000001bbe0                readdir
+                0x000000000001bbe0                __readdir64
+                0x000000000001bbe0                __readdir
+                0x000000000001bbe0                readdir64
+ *fill*         0x000000000001bcd8        0x8 
+ .text          0x000000000001bce0       0x93 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+                0x000000000001bce0                rewinddir
+                0x000000000001bce0                __rewinddir
+                0x000000000001bce0                __GI___rewinddir
+ *fill*         0x000000000001bd73        0xd 
+ .text          0x000000000001bd80       0x8d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+                0x000000000001bd80                __getdents
+                0x000000000001bd80                __getdents64
+ *fill*         0x000000000001be0d        0x3 
+ .text          0x000000000001be10       0x9a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+                0x000000000001be10                fdopendir
+                0x000000000001be10                __fdopendir
+ *fill*         0x000000000001beaa        0x6 
+ .text          0x000000000001beb0       0x21 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+                0x000000000001beb0                uname
+                0x000000000001beb0                __GI_uname
+                0x000000000001beb0                __uname
+                0x000000000001beb0                __GI___uname
+ *fill*         0x000000000001bed1        0xf 
+ .text          0x000000000001bee0       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+                0x000000000001bee0                _Exit
+                0x000000000001bee0                __GI__exit
+                0x000000000001bee0                _exit
+ *fill*         0x000000000001bf38        0x8 
+ .text          0x000000000001bf40        0x8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+                0x000000000001bf40                __getpid
+                0x000000000001bf40                getpid
+                0x000000000001bf40                __GI_getpid
+                0x000000000001bf40                __GI___getpid
+ .text          0x000000000001bf48        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ *fill*         0x000000000001bf48        0x8 
+ .text          0x000000000001bf50       0x4c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+                0x000000000001bf50                _xstat
+                0x000000000001bf50                __xstat64
+                0x000000000001bf50                __GI___xstat64
+                0x000000000001bf50                __GI___xstat
+                0x000000000001bf50                __xstat
+ *fill*         0x000000000001bf9c        0x4 
+ .text          0x000000000001bfa0       0x4c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+                0x000000000001bfa0                __GI___fxstat
+                0x000000000001bfa0                __GI___fxstat64
+                0x000000000001bfa0                __fxstat64
+                0x000000000001bfa0                _fxstat
+                0x000000000001bfa0                __fxstat
+ *fill*         0x000000000001bfec        0x4 
+ .text          0x000000000001bff0       0x4c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+                0x000000000001bff0                __GI___lxstat
+                0x000000000001bff0                _lxstat
+                0x000000000001bff0                __lxstat
+                0x000000000001bff0                __lxstat64
+                0x000000000001bff0                __GI___lxstat64
+ *fill*         0x000000000001c03c        0x4 
+ .text          0x000000000001c040       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+                0x000000000001c040                __GI___open64
+                0x000000000001c040                __open
+                0x000000000001c040                __GI_open
+                0x000000000001c040                __GI___open
+                0x000000000001c040                __GI_open64
+                0x000000000001c040                __libc_open
+                0x000000000001c040                open64
+                0x000000000001c040                __GI___libc_open
+                0x000000000001c040                open
+                0x000000000001c040                __open64
+                0x000000000001c049                __open_nocancel
+ *fill*         0x000000000001c09a        0x6 
+ .text          0x000000000001c0a0       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+                0x000000000001c0a0                __read
+                0x000000000001c0a0                __GI_read
+                0x000000000001c0a0                __libc_read
+                0x000000000001c0a0                __GI___read
+                0x000000000001c0a0                read
+                0x000000000001c0a0                __GI___libc_read
+                0x000000000001c0a9                __read_nocancel
+ *fill*         0x000000000001c0fa        0x6 
+ .text          0x000000000001c100       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+                0x000000000001c100                __write
+                0x000000000001c100                __GI_write
+                0x000000000001c100                write
+                0x000000000001c100                __GI___libc_write
+                0x000000000001c100                __GI___write
+                0x000000000001c100                __libc_write
+                0x000000000001c109                __write_nocancel
+ *fill*         0x000000000001c15a        0x6 
+ .text          0x000000000001c160       0x34 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+                0x000000000001c160                __GI___lseek
+                0x000000000001c160                __lseek64
+                0x000000000001c160                lseek
+                0x000000000001c160                __libc_lseek64
+                0x000000000001c160                llseek
+                0x000000000001c160                __lseek
+                0x000000000001c160                __libc_lseek
+                0x000000000001c160                lseek64
+ *fill*         0x000000000001c194        0xc 
+ .text          0x000000000001c1a0       0x4a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+                0x000000000001c1a0                __access_noerrno
+                0x000000000001c1c0                access
+                0x000000000001c1c0                __access
+ *fill*         0x000000000001c1ea        0x6 
+ .text          0x000000000001c1f0      0x110 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+                0x000000000001c260                __fcntl_nocancel
+                0x000000000001c290                __libc_fcntl
+                0x000000000001c290                __GI___libc_fcntl
+                0x000000000001c290                __GI___fcntl
+                0x000000000001c290                __fcntl
+                0x000000000001c290                fcntl
+ .text          0x000000000001c300       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+                0x000000000001c300                __GI_close
+                0x000000000001c300                __GI___libc_close
+                0x000000000001c300                __libc_close
+                0x000000000001c300                __close
+                0x000000000001c300                __GI___close
+                0x000000000001c300                close
+                0x000000000001c309                __close_nocancel
+ *fill*         0x000000000001c35a        0x6 
+ .text          0x000000000001c360       0xbe /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+                0x000000000001c360                __mmap
+                0x000000000001c360                mmap
+                0x000000000001c360                __mmap64
+                0x000000000001c360                mmap64
+ *fill*         0x000000000001c41e        0x2 
+ .text          0x000000000001c420       0x21 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+                0x000000000001c420                munmap
+                0x000000000001c420                __GI___munmap
+                0x000000000001c420                __GI_munmap
+                0x000000000001c420                __munmap
+ *fill*         0x000000000001c441        0xf 
+ .text          0x000000000001c450       0x21 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+                0x000000000001c450                __mprotect
+                0x000000000001c450                __GI___mprotect
+                0x000000000001c450                __GI_mprotect
+                0x000000000001c450                mprotect
+ *fill*         0x000000000001c471        0xf 
+ .text          0x000000000001c480      0x1ce /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+                0x000000000001c4d0                __profil
+                0x000000000001c4d0                profil
+ *fill*         0x000000000001c64e        0x2 
+ .text          0x000000000001c650        0xb /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+                0x000000000001c650                __GI___profile_frequency
+                0x000000000001c650                __profile_frequency
+ *fill*         0x000000000001c65b        0x5 
+ .text          0x000000000001c660       0x4c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+                0x000000000001c660                __lll_lock_wait_private
+                0x000000000001c690                __lll_unlock_wake_private
+ *fill*         0x000000000001c6ac        0x4 
+ .text          0x000000000001c6b0       0xb9 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+                0x000000000001c6b0                __libc_enable_asynccancel
+                0x000000000001c710                __libc_disable_asynccancel
+ .text          0x000000000001c769        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ *fill*         0x000000000001c769        0x7 
+ .text          0x000000000001c770       0x53 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+                0x000000000001c770                _dl_addr_inside_object
+ *fill*         0x000000000001c7c3        0xd 
+ .text          0x000000000001c7d0      0x274 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+                0x000000000001c7f0                __libc_sigaction
+                0x000000000001c7f0                __GI___libc_sigaction
+                0x000000000001ca20                sigaction
+                0x000000000001ca20                __GI___sigaction
+                0x000000000001ca20                __sigaction
+ *fill*         0x000000000001ca44        0xc 
+ .text          0x000000000001ca50       0x21 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+                0x000000000001ca50                setitimer
+                0x000000000001ca50                __setitimer
+                0x000000000001ca50                __GI_setitimer
+                0x000000000001ca50                __GI___setitimer
+ *fill*         0x000000000001ca71        0xf 
+ .text          0x000000000001ca80      0x5c6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+                0x000000000001ca80                pthread_equal
+                0x000000000001cab0                pthread_attr_destroy
+                0x000000000001cae0                pthread_attr_init@@GLIBC_2.2.5
+                0x000000000001cae0                __pthread_attr_init_2_1
+                0x000000000001cb10                pthread_attr_getdetachstate
+                0x000000000001cb40                pthread_attr_setdetachstate
+                0x000000000001cb70                pthread_attr_getinheritsched
+                0x000000000001cba0                pthread_attr_setinheritsched
+                0x000000000001cbd0                pthread_attr_getschedparam
+                0x000000000001cc00                pthread_attr_setschedparam
+                0x000000000001cc30                pthread_attr_getschedpolicy
+                0x000000000001cc60                pthread_attr_setschedpolicy
+                0x000000000001cc90                pthread_attr_getscope
+                0x000000000001ccc0                pthread_attr_setscope
+                0x000000000001ccf0                pthread_condattr_destroy
+                0x000000000001cd20                pthread_condattr_init
+                0x000000000001cd50                pthread_cond_broadcast@@GLIBC_2.3.2
+                0x000000000001cd50                __pthread_cond_broadcast
+                0x000000000001cd80                pthread_cond_destroy@@GLIBC_2.3.2
+                0x000000000001cd80                __pthread_cond_destroy
+                0x000000000001cdb0                pthread_cond_init@@GLIBC_2.3.2
+                0x000000000001cdb0                __pthread_cond_init
+                0x000000000001cde0                pthread_cond_signal@@GLIBC_2.3.2
+                0x000000000001cde0                __pthread_cond_signal
+                0x000000000001ce10                pthread_cond_wait@@GLIBC_2.3.2
+                0x000000000001ce10                __pthread_cond_wait
+                0x000000000001ce40                pthread_cond_timedwait@@GLIBC_2.3.2
+                0x000000000001ce40                __pthread_cond_timedwait
+                0x000000000001ce70                pthread_exit
+                0x000000000001ce70                __pthread_exit
+                0x000000000001cea0                pthread_getschedparam
+                0x000000000001ced0                pthread_setschedparam
+                0x000000000001cf00                pthread_mutex_destroy
+                0x000000000001cf30                pthread_mutex_init
+                0x000000000001cf60                pthread_mutex_lock
+                0x000000000001cf90                pthread_mutex_unlock
+                0x000000000001cfc0                pthread_self
+                0x000000000001cff0                __pthread_setcancelstate
+                0x000000000001cff0                pthread_setcancelstate
+                0x000000000001d020                pthread_setcanceltype
+ *fill*         0x000000000001d046        0xa 
+ .text          0x000000000001d050      0x14a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+                0x000000000001d050                __run_exit_handlers
+                0x000000000001d180                __GI_exit
+                0x000000000001d180                exit
+ *fill*         0x000000000001d19a        0x6 
+ .text          0x000000000001d1a0      0x22f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+                0x000000000001d1a0                __new_exitfn
+                0x000000000001d330                __internal_atexit
+                0x000000000001d380                __cxa_atexit
+                0x000000000001d380                __GI___cxa_atexit
+ *fill*         0x000000000001d3cf        0x1 
+ .text          0x000000000001d3d0      0x135 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+                0x000000000001d3d0                __cxa_thread_atexit_impl
+                0x000000000001d4a0                __GI___call_tls_dtors
+                0x000000000001d4a0                __call_tls_dtors
+ *(.gnu.warning)
+
+.text.unlikely  0x0000000000000000      0x1f3
+ .text.unlikely
+                0x0000000000000000      0x1f3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .text.unlikely
+                0x00000000000001f3        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.text.sse4.2    0x0000000000000000      0xda9
+ .text.sse4.2   0x0000000000000000      0xda9 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+                0x0000000000000000                __strcmp_sse42
+
+.text.ssse3     0x0000000000000000     0xd5e3
+ .text.ssse3    0x0000000000000000     0x1259 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+                0x0000000000000000                __GI___strcmp_ssse3
+                0x0000000000000000                __strcmp_ssse3
+ *fill*         0x0000000000001259        0x7 
+ .text.ssse3    0x0000000000001260     0x29e6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+                0x0000000000001260                __mempcpy_chk_ssse3
+                0x0000000000001270                __mempcpy_ssse3
+                0x0000000000001280                __memcpy_chk_ssse3
+                0x0000000000001290                __memcpy_ssse3
+ *fill*         0x0000000000003c46        0xa 
+ .text.ssse3    0x0000000000003c50     0x2b77 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+                0x0000000000003c50                __memmove_chk_ssse3
+                0x0000000000003c60                __memmove_ssse3
+ *fill*         0x00000000000067c7        0x9 
+ .text.ssse3    0x00000000000067d0     0x2ae6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+                0x00000000000067d0                __mempcpy_chk_ssse3_back
+                0x00000000000067e0                __mempcpy_ssse3_back
+                0x00000000000067f0                __memcpy_chk_ssse3_back
+                0x0000000000006800                __memcpy_ssse3_back
+ *fill*         0x00000000000092b6        0xa 
+ .text.ssse3    0x00000000000092c0     0x2b16 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+                0x00000000000092c0                __memmove_chk_ssse3_back
+                0x00000000000092d0                __memmove_ssse3_back
+ *fill*         0x000000000000bdd6        0xa 
+ .text.ssse3    0x000000000000bde0     0x1803 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+                0x000000000000bde0                __stpcpy_ssse3
+
+.text.sse4.1    0x0000000000000000     0x163e
+ .text.sse4.1   0x0000000000000000     0x163e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+                0x0000000000000000                __memcmp_sse4_1
+
+.text.avx512    0x0000000000000000     0x1161
+ .text.avx512   0x0000000000000000      0x768 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                0x0000000000000000                __mempcpy_chk_avx512_no_vzeroupper
+                0x0000000000000010                __mempcpy_avx512_no_vzeroupper
+                0x0000000000000020                __memcpy_chk_avx512_no_vzeroupper
+                0x0000000000000020                __memmove_chk_avx512_no_vzeroupper
+                0x0000000000000030                __memcpy_avx512_no_vzeroupper
+                0x0000000000000030                __memmove_avx512_no_vzeroupper
+ *fill*         0x0000000000000768        0x8 
+ .text.avx512   0x0000000000000770      0x280 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                0x0000000000000770                __memset_chk_avx512_no_vzeroupper
+                0x0000000000000780                __memset_avx512_no_vzeroupper
+ .text.avx512   0x00000000000009f0      0x598 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                0x00000000000009f0                __mempcpy_chk_avx512_unaligned
+                0x0000000000000a00                __mempcpy_avx512_unaligned
+                0x0000000000000a10                __memcpy_chk_avx512_unaligned
+                0x0000000000000a10                __memmove_chk_avx512_unaligned
+                0x0000000000000a20                __memmove_avx512_unaligned
+                0x0000000000000a20                __memcpy_avx512_unaligned
+                0x0000000000000a60                __mempcpy_chk_avx512_unaligned_erms
+                0x0000000000000a70                __mempcpy_avx512_unaligned_erms
+                0x0000000000000a80                __memcpy_chk_avx512_unaligned_erms
+                0x0000000000000a80                __memmove_chk_avx512_unaligned_erms
+                0x0000000000000a90                __memmove_avx512_unaligned_erms
+                0x0000000000000a90                __memcpy_avx512_unaligned_erms
+ *fill*         0x0000000000000f88        0x8 
+ .text.avx512   0x0000000000000f90      0x1d1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                0x0000000000000f90                __memset_chk_avx512_unaligned
+                0x0000000000000fa0                __memset_avx512_unaligned
+                0x0000000000000fe0                __memset_avx512_erms
+                0x0000000000001000                __memset_chk_avx512_unaligned_erms
+                0x0000000000001010                __memset_avx512_unaligned_erms
+
+.text.atom      0x0000000000000000     0x1a83
+ .text.atom     0x0000000000000000      0x315 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+                0x0000000000000000                __strchr_sse2_no_bsf
+ *fill*         0x0000000000000315        0xb 
+ .text.atom     0x0000000000000320     0x1763 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+                0x0000000000000320                __memcmp_ssse3
+
+.text.avx       0x0000000000000000      0x5eb
+ .text.avx      0x0000000000000000      0x464 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                0x0000000000000000                __mempcpy_chk_avx_unaligned
+                0x0000000000000010                __mempcpy_avx_unaligned
+                0x0000000000000020                __memcpy_chk_avx_unaligned
+                0x0000000000000020                __memmove_chk_avx_unaligned
+                0x0000000000000030                __memcpy_avx_unaligned
+                0x0000000000000030                __memmove_avx_unaligned
+                0x0000000000000060                __mempcpy_chk_avx_unaligned_erms
+                0x0000000000000070                __mempcpy_avx_unaligned_erms
+                0x0000000000000080                __memmove_chk_avx_unaligned_erms
+                0x0000000000000080                __memcpy_chk_avx_unaligned_erms
+                0x0000000000000090                __memcpy_avx_unaligned_erms
+                0x0000000000000090                __memmove_avx_unaligned_erms
+ *fill*         0x0000000000000464        0xc 
+ .text.avx      0x0000000000000470      0x17b /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                0x0000000000000470                __memset_chk_avx2_unaligned
+                0x0000000000000480                __memset_avx2_unaligned
+                0x00000000000004b0                __memset_avx2_erms
+                0x00000000000004d0                __memset_chk_avx2_unaligned_erms
+                0x00000000000004e0                __memset_avx2_unaligned_erms
+
+.text.startup   0x0000000000000000      0x43a
+ .text.startup  0x0000000000000000      0x43a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+
+.text.compat    0x0000000000000000      0x160
+ .text.compat   0x0000000000000000      0x160 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+                0x0000000000000000                pthread_cond_broadcast@GLIBC_2.2.5
+                0x0000000000000000                __pthread_cond_broadcast_2_0
+                0x0000000000000030                __pthread_cond_destroy_2_0
+                0x0000000000000030                pthread_cond_destroy@GLIBC_2.2.5
+                0x0000000000000060                __pthread_cond_init_2_0
+                0x0000000000000060                pthread_cond_init@GLIBC_2.2.5
+                0x0000000000000090                __pthread_cond_signal_2_0
+                0x0000000000000090                pthread_cond_signal@GLIBC_2.2.5
+                0x00000000000000c0                pthread_cond_wait@GLIBC_2.2.5
+                0x00000000000000c0                __pthread_cond_wait_2_0
+                0x00000000000000f0                pthread_cond_timedwait@GLIBC_2.2.5
+                0x00000000000000f0                __pthread_cond_timedwait_2_0
+                0x0000000000000120                __pthread_unwind
+
+.fini
+ *(SORT(.fini))
+
+.rodata         0x0000000000000000     0x1080
+ *(.rodata)
+ .rodata        0x0000000000000000      0xc90 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+                0x0000000000000c80                __GI__itoa_lower_digits
+                0x0000000000000c80                _itoa_lower_digits
+ .rodata        0x0000000000000c90       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .rodata        0x0000000000000cd0       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .rodata        0x0000000000000d10       0x80 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ *fill*         0x0000000000000d90       0x10 
+ .rodata        0x0000000000000da0      0x2e0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+
+.rodata.str1.1  0x0000000000000000      0xf67
+ .rodata.str1.1
+                0x0000000000000000      0xf03 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .rodata.str1.1
+                0x0000000000000f03       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .rodata.str1.1
+                0x0000000000000f17       0x39 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .rodata.str1.1
+                0x0000000000000f50       0x17 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.8  0x0000000000000000     0x22bd
+ .rodata.str1.8
+                0x0000000000000000     0x2299 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ *fill*         0x0000000000002299        0x7 
+ .rodata.str1.8
+                0x00000000000022a0        0xb /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ *fill*         0x00000000000022ab        0x5 
+ .rodata.str1.8
+                0x00000000000022b0        0xd /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+
+.rodata.str1.16
+                0x0000000000000000      0x3b1
+ .rodata.str1.16
+                0x0000000000000000      0x393 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ *fill*         0x0000000000000393        0xd 
+ .rodata.str1.16
+                0x00000000000003a0       0x11 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+
+.rodata.cst16   0x0000000000000000       0x20
+ .rodata.cst16  0x0000000000000000       0x20 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+
+.rodata.cst4    0x0000000000000000        0x4
+ .rodata.cst4   0x0000000000000000        0x4 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+
+.rodata.str1.32
+                0x0000000000000000       0x3b
+ .rodata.str1.32
+                0x0000000000000000       0x3b /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+
+.rodata.sse4.2  0x0000000000000000       0x40
+ .rodata.sse4.2
+                0x0000000000000000       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+
+.rodata.sse4.1  0x0000000000000000      0x140
+ .rodata.sse4.1
+                0x0000000000000000      0x140 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+
+.rodata.ssse3   0x0000000000000000      0xd80
+ .rodata.ssse3  0x0000000000000000      0x1c0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .rodata.ssse3  0x00000000000001c0      0x1c0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .rodata.ssse3  0x0000000000000380      0x500 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .rodata.ssse3  0x0000000000000880      0x500 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+
+.rodata1
+ *(.rodata1)
+
+.eh_frame_hdr
+ *(.eh_frame_hdr)
+
+.eh_frame       0x0000000000000000     0x3d10
+ *(.eh_frame)
+ .eh_frame      0x0000000000000000     0x2270 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .eh_frame      0x0000000000002270       0x68 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .eh_frame      0x00000000000022d8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .eh_frame      0x0000000000002308       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .eh_frame      0x0000000000002350       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002398       0x60 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+                                         0x58 (size before relaxing)
+ .eh_frame      0x00000000000023f8       0x50 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .eh_frame      0x0000000000002448       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .eh_frame      0x0000000000002478       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .eh_frame      0x00000000000024a8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .eh_frame      0x00000000000024d8       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002520      0x120 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+                                         0xf8 (size before relaxing)
+ .eh_frame      0x0000000000002640       0xc0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+                                         0xa8 (size before relaxing)
+ .eh_frame      0x0000000000002700       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .eh_frame      0x0000000000002730       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002778       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .eh_frame      0x00000000000027a8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .eh_frame      0x00000000000027d8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .eh_frame      0x0000000000002808       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .eh_frame      0x0000000000002838       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .eh_frame      0x0000000000002868       0x78 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x00000000000028e0       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002928       0x78 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x00000000000029a0       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000029e8       0x78 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000002a60       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .eh_frame      0x0000000000002a90       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .eh_frame      0x0000000000002ac0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .eh_frame      0x0000000000002af0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .eh_frame      0x0000000000002b20       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000002b68       0xd8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000002c40       0xd8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+                                         0xb8 (size before relaxing)
+ .eh_frame      0x0000000000002d18       0x90 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000002da8       0x90 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+                                         0x80 (size before relaxing)
+ .eh_frame      0x0000000000002e38      0x1c8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+                                        0x1c0 (size before relaxing)
+ .eh_frame      0x0000000000003000       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .eh_frame      0x0000000000003040       0x68 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .eh_frame      0x00000000000030a8       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .eh_frame      0x00000000000030e8       0x68 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .eh_frame      0x0000000000003150       0x50 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .eh_frame      0x00000000000031a0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .eh_frame      0x00000000000031d0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .eh_frame      0x0000000000003200       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .eh_frame      0x0000000000003230       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .eh_frame      0x0000000000003260       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .eh_frame      0x0000000000003290       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .eh_frame      0x00000000000032c0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .eh_frame      0x00000000000032f0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .eh_frame      0x0000000000003320       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .eh_frame      0x0000000000003350       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .eh_frame      0x0000000000003380       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x00000000000033c8       0x70 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+                                         0x68 (size before relaxing)
+ .eh_frame      0x0000000000003438       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .eh_frame      0x0000000000003468       0x60 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .eh_frame      0x00000000000034c8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .eh_frame      0x00000000000034f8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .eh_frame      0x0000000000003528       0x80 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .eh_frame      0x00000000000035a8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .eh_frame      0x00000000000035d8       0x68 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+                                         0x60 (size before relaxing)
+ .eh_frame      0x0000000000003640       0x48 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+                                         0x40 (size before relaxing)
+ .eh_frame      0x0000000000003688       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .eh_frame      0x00000000000036b8       0xf0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+                                         0xe8 (size before relaxing)
+ .eh_frame      0x00000000000037a8       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .eh_frame      0x00000000000037d8      0x3a8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+                                        0x310 (size before relaxing)
+ .eh_frame      0x0000000000003b80       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .eh_frame      0x0000000000003bd8       0xb8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+                                         0xb0 (size before relaxing)
+ .eh_frame      0x0000000000003c90       0x80 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.gnu_extab
+ *(.gnu_extab*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.eh_frame
+ *(.eh_frame)
+
+.gnu_extab
+ *(.gnu_extab)
+
+.gcc_except_table
+ *(.gcc_except_table .gcc_except_table.*)
+
+.exception_ranges
+ *(.exception_ranges .exception_ranges*)
+
+.tdata
+ *(.tdata)
+
+.tbss           0x0000000000000000       0x18
+ *(.tbss)
+ .tbss          0x0000000000000000        0x4 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+                0x0000000000000000                errno
+                0x0000000000000000                __libc_errno
+ *fill*         0x0000000000000004        0x4 
+ .tbss          0x0000000000000008       0x10 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.preinit_array
+ *(.preinit_array)
+
+.jcr
+ *(.jcr)
+
+.dynamic
+ *(.dynamic)
+
+.got
+ *(.got)
+ *(.igot)
+
+.got.plt
+ *(.got.plt)
+ *(.igot.plt)
+
+.data           0x0000000000000000      0xfb8
+ *(.data)
+ .data          0x0000000000000000      0xf78 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+                0x0000000000000000                _rtld_global
+                0x0000000000000000                _rtld_local
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .data          0x0000000000000f78        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .data          0x0000000000000f78       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+                0x0000000000000f78                __x86_raw_shared_cache_size
+                0x0000000000000f80                __x86_raw_shared_cache_size_half
+                0x0000000000000f88                __x86_shared_cache_size
+                0x0000000000000f90                __x86_shared_cache_size_half
+                0x0000000000000f98                __x86_raw_data_cache_size
+                0x0000000000000fa0                __x86_raw_data_cache_size_half
+                0x0000000000000fa8                __x86_data_cache_size
+                0x0000000000000fb0                __x86_data_cache_size_half
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .data          0x0000000000000fb8        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.data.rel.ro    0x0000000000000000      0x29c
+ .data.rel.ro   0x0000000000000000      0x29c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+                0x00000000000000b0                __pointer_chk_guard_local
+                0x00000000000000b8                _dl_skip_args
+                0x00000000000000c0                __GI__dl_argv
+                0x00000000000000c0                _dl_argv
+                0x00000000000000c8                _dl_argc
+                0x00000000000000e0                _rtld_global_ro
+                0x00000000000000e0                _rtld_local_ro
+                0x0000000000000280                __stack_prot
+                0x0000000000000288                _dl_random
+                0x0000000000000290                __libc_stack_end
+                0x0000000000000290                __GI___libc_stack_end
+                0x0000000000000298                __GI___libc_enable_secure
+                0x0000000000000298                __libc_enable_secure
+
+.init_array     0x0000000000000000        0x8
+ .init_array    0x0000000000000000        0x8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+
+.data.rel.local
+                0x0000000000000000        0x8
+ .data.rel.local
+                0x0000000000000000        0x8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+                0x0000000000000000                __exit_funcs
+
+.data1
+ *(.data1)
+
+.bss            0x0000000000000000      0x614
+ *(.dynbss)
+ *(.bss)
+ .bss           0x0000000000000000      0x118 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+                0x00000000000000e0                __libc_multiple_libcs
+                0x0000000000000110                __curbrk
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .bss           0x0000000000000118        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .bss           0x0000000000000118        0x8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+                0x0000000000000118                _environ
+                0x0000000000000118                __environ
+                0x0000000000000118                environ
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .bss           0x0000000000000120        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .bss           0x0000000000000120       0xe0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .bss           0x0000000000000200        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .bss           0x0000000000000200      0x414 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .bss           0x0000000000000614        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+ *(COMMON)
+ COMMON         0x0000000000000614        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ COMMON         0x0000000000000614        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ COMMON         0x0000000000000614        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ COMMON         0x0000000000000614        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ COMMON         0x0000000000000614        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+
+.lbss
+ *(.dynlbss)
+ *(.lbss)
+ *(LARGE_COMMON)
+
+.lrodata
+ *(.lrodata)
+
+.ldata
+ *(.ldata)
+
+.stab
+ *(.stab)
+
+.stabstr
+ *(.stabstr)
+
+.stab.excl
+ *(.stab.excl)
+
+.stab.exclstr
+ *(.stab.exclstr)
+
+.stab.index
+ *(.stab.index)
+
+.stab.indexstr
+ *(.stab.indexstr)
+
+.comment        0x0000000000000000      0xd14
+ *(.comment)
+ .comment       0x0000000000000000      0x762 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .comment       0x0000000000000762       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .comment       0x0000000000000798       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .comment       0x00000000000007ce       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .comment       0x0000000000000804       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .comment       0x000000000000083a       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .comment       0x0000000000000870       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .comment       0x00000000000008a6       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .comment       0x00000000000008dc       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .comment       0x0000000000000912       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .comment       0x0000000000000948       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .comment       0x000000000000097e       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .comment       0x00000000000009b4       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .comment       0x00000000000009ea       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .comment       0x0000000000000a20       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .comment       0x0000000000000a56       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .comment       0x0000000000000a8c       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .comment       0x0000000000000ac2       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .comment       0x0000000000000af8       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .comment       0x0000000000000b2e       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .comment       0x0000000000000b64       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .comment       0x0000000000000b9a       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .comment       0x0000000000000bd0       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .comment       0x0000000000000c06       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .comment       0x0000000000000c3c       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .comment       0x0000000000000c72       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .comment       0x0000000000000ca8       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .comment       0x0000000000000cde       0x36 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.note.GNU-stack
+                0x0000000000000000        0x0
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .note.GNU-stack
+                0x0000000000000000        0x0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.gnu.warning.llseek
+                0x0000000000000000       0x3f
+ .gnu.warning.llseek
+                0x0000000000000000       0x3f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+
+.debug
+ *(.debug)
+
+.line
+ *(.line)
+
+.debug_srcinfo
+ *(.debug_srcinfo)
+
+.debug_sfnames
+ *(.debug_sfnames)
+
+.debug_aranges  0x0000000000000000     0x1460
+ *(.debug_aranges)
+ .debug_aranges
+                0x0000000000000000      0x710 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_aranges
+                0x0000000000000710       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_aranges
+                0x0000000000000740       0x20 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .debug_aranges
+                0x0000000000000760       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .debug_aranges
+                0x0000000000000790       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .debug_aranges
+                0x00000000000007c0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .debug_aranges
+                0x00000000000007f0       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .debug_aranges
+                0x0000000000000830       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .debug_aranges
+                0x0000000000000860       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .debug_aranges
+                0x0000000000000890       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .debug_aranges
+                0x00000000000008c0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .debug_aranges
+                0x00000000000008f0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .debug_aranges
+                0x0000000000000920       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .debug_aranges
+                0x0000000000000950       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .debug_aranges
+                0x0000000000000980       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .debug_aranges
+                0x00000000000009b0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .debug_aranges
+                0x00000000000009e0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .debug_aranges
+                0x0000000000000a10       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .debug_aranges
+                0x0000000000000a40       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000a70       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000aa0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .debug_aranges
+                0x0000000000000ad0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000b00       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .debug_aranges
+                0x0000000000000b30       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000b60       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_aranges
+                0x0000000000000b90       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000bc0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_aranges
+                0x0000000000000bf0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_aranges
+                0x0000000000000c20       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_aranges
+                0x0000000000000c50       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_aranges
+                0x0000000000000c80       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_aranges
+                0x0000000000000cb0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000ce0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000d10       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000d40       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_aranges
+                0x0000000000000d70       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_aranges
+                0x0000000000000db0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_aranges
+                0x0000000000000de0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_aranges
+                0x0000000000000e10       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_aranges
+                0x0000000000000e40       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_aranges
+                0x0000000000000e70       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .debug_aranges
+                0x0000000000000ea0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .debug_aranges
+                0x0000000000000ed0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_aranges
+                0x0000000000000f00       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .debug_aranges
+                0x0000000000000f30       0x20 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .debug_aranges
+                0x0000000000000f50       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_aranges
+                0x0000000000000f80       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_aranges
+                0x0000000000000fb0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_aranges
+                0x0000000000000fe0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .debug_aranges
+                0x0000000000001010       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .debug_aranges
+                0x0000000000001040       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .debug_aranges
+                0x0000000000001070       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_aranges
+                0x00000000000010a0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_aranges
+                0x00000000000010d0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .debug_aranges
+                0x0000000000001100       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .debug_aranges
+                0x0000000000001130       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_aranges
+                0x0000000000001160       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .debug_aranges
+                0x0000000000001190       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .debug_aranges
+                0x00000000000011c0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .debug_aranges
+                0x00000000000011f0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .debug_aranges
+                0x0000000000001220       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_aranges
+                0x0000000000001250       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .debug_aranges
+                0x0000000000001280       0x20 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_aranges
+                0x00000000000012a0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .debug_aranges
+                0x00000000000012d0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_aranges
+                0x0000000000001300       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .debug_aranges
+                0x0000000000001330       0xa0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_aranges
+                0x00000000000013d0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_aranges
+                0x0000000000001400       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .debug_aranges
+                0x0000000000001430       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_pubnames
+ *(.debug_pubnames)
+
+.debug_info     0x0000000000000000    0x68a8b
+ *(.debug_info)
+ .debug_info    0x0000000000000000    0x525d3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_info    0x00000000000525d3      0x8e0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_info    0x0000000000052eb3      0x4fd /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .debug_info    0x00000000000533b0       0x93 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .debug_info    0x0000000000053443       0x96 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .debug_info    0x00000000000534d9       0x9d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .debug_info    0x0000000000053576       0x91 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .debug_info    0x0000000000053607      0x1b1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .debug_info    0x00000000000537b8       0x93 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .debug_info    0x000000000005384b       0x93 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .debug_info    0x00000000000538de       0x93 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .debug_info    0x0000000000053971       0x9d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .debug_info    0x0000000000053a0e       0x9e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .debug_info    0x0000000000053aac       0x9d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .debug_info    0x0000000000053b49       0x9e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .debug_info    0x0000000000053be7       0x9d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .debug_info    0x0000000000053c84       0x9d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .debug_info    0x0000000000053d21       0x96 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .debug_info    0x0000000000053db7       0xa0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_info    0x0000000000053e57       0xac /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_info    0x0000000000053f03       0xa2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .debug_info    0x0000000000053fa5       0xa3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_info    0x0000000000054048       0xa3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .debug_info    0x00000000000540eb       0xa8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_info    0x0000000000054193       0xa8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_info    0x000000000005423b       0xb3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_info    0x00000000000542ee       0xa3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_info    0x0000000000054391       0xac /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_info    0x000000000005443d       0xa9 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_info    0x00000000000544e6       0xa3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_info    0x0000000000054589       0xb2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_info    0x000000000005463b       0xb1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_info    0x00000000000546ec       0xb1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_info    0x000000000005479d       0xb0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_info    0x000000000005484d       0xb0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_info    0x00000000000548fd     0x28cf /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_info    0x00000000000571cc      0x65a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_info    0x0000000000057826      0x717 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_info    0x0000000000057f3d      0x63d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_info    0x000000000005857a      0x79d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_info    0x0000000000058d17      0x7de /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .debug_info    0x00000000000594f5       0x9a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .debug_info    0x000000000005958f      0x5bf /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_info    0x0000000000059b4e       0x9a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .debug_info    0x0000000000059be8       0xbd /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .debug_info    0x0000000000059ca5      0x722 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_info    0x000000000005a3c7      0x721 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_info    0x000000000005aae8      0x722 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_info    0x000000000005b20a       0x97 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .debug_info    0x000000000005b2a1       0x97 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .debug_info    0x000000000005b338       0x97 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .debug_info    0x000000000005b3cf      0x5fe /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_info    0x000000000005b9cd      0x6de /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_info    0x000000000005c0ab      0x9a8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .debug_info    0x000000000005ca53       0x97 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .debug_info    0x000000000005caea     0x1b95 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_info    0x000000000005e67f       0x99 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .debug_info    0x000000000005e718       0x99 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .debug_info    0x000000000005e7b1      0xf0c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .debug_info    0x000000000005f6bd     0x1951 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .debug_info    0x000000000006100e       0xa7 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_info    0x00000000000610b5       0xa7 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .debug_info    0x000000000006115c      0x5d1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_info    0x000000000006172d      0xe1d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .debug_info    0x000000000006254a      0xab3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_info    0x0000000000062ffd       0x99 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .debug_info    0x0000000000063096     0x2a27 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_info    0x0000000000065abd     0x101c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_info    0x0000000000066ad9      0x958 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .debug_info    0x0000000000067431     0x165a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_abbrev   0x0000000000000000     0xbec4
+ *(.debug_abbrev)
+ .debug_abbrev  0x0000000000000000     0x8497 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_abbrev  0x0000000000008497      0x22a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_abbrev  0x00000000000086c1       0xfe /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .debug_abbrev  0x00000000000087bf       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .debug_abbrev  0x00000000000087d3       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .debug_abbrev  0x00000000000087e7       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .debug_abbrev  0x00000000000087fb       0x12 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .debug_abbrev  0x000000000000880d      0x134 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .debug_abbrev  0x0000000000008941       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .debug_abbrev  0x0000000000008955       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .debug_abbrev  0x0000000000008969       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .debug_abbrev  0x000000000000897d       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .debug_abbrev  0x0000000000008991       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .debug_abbrev  0x00000000000089a5       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .debug_abbrev  0x00000000000089b9       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .debug_abbrev  0x00000000000089cd       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .debug_abbrev  0x00000000000089e1       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .debug_abbrev  0x00000000000089f5       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .debug_abbrev  0x0000000000008a09       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_abbrev  0x0000000000008a1d       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_abbrev  0x0000000000008a31       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .debug_abbrev  0x0000000000008a45       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_abbrev  0x0000000000008a59       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .debug_abbrev  0x0000000000008a6d       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_abbrev  0x0000000000008a81       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_abbrev  0x0000000000008a95       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x0000000000008aa9       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_abbrev  0x0000000000008abd       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_abbrev  0x0000000000008ad1       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_abbrev  0x0000000000008ae5       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_abbrev  0x0000000000008af9       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_abbrev  0x0000000000008b0d       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_abbrev  0x0000000000008b21       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_abbrev  0x0000000000008b35       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_abbrev  0x0000000000008b49       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_abbrev  0x0000000000008b5d      0x45f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_abbrev  0x0000000000008fbc      0x1b0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_abbrev  0x000000000000916c      0x1c4 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_abbrev  0x0000000000009330      0x183 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_abbrev  0x00000000000094b3      0x1eb /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_abbrev  0x000000000000969e      0x1af /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .debug_abbrev  0x000000000000984d       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .debug_abbrev  0x0000000000009861      0x176 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_abbrev  0x00000000000099d7       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .debug_abbrev  0x00000000000099eb       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .debug_abbrev  0x0000000000009a2b      0x16c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_abbrev  0x0000000000009b97      0x16c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_abbrev  0x0000000000009d03      0x16c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_abbrev  0x0000000000009e6f       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .debug_abbrev  0x0000000000009e83       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .debug_abbrev  0x0000000000009e97       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .debug_abbrev  0x0000000000009eab      0x188 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_abbrev  0x000000000000a033      0x1a8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_abbrev  0x000000000000a1db      0x2ae /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .debug_abbrev  0x000000000000a489       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .debug_abbrev  0x000000000000a49d      0x2d3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_abbrev  0x000000000000a770       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .debug_abbrev  0x000000000000a784       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .debug_abbrev  0x000000000000a798      0x2f8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .debug_abbrev  0x000000000000aa90      0x25e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .debug_abbrev  0x000000000000acee       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_abbrev  0x000000000000ad02       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .debug_abbrev  0x000000000000ad16      0x145 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_abbrev  0x000000000000ae5b      0x205 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .debug_abbrev  0x000000000000b060      0x209 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_abbrev  0x000000000000b269       0x14 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .debug_abbrev  0x000000000000b27d      0x3c5 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_abbrev  0x000000000000b642      0x2b6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_abbrev  0x000000000000b8f8      0x2d2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .debug_abbrev  0x000000000000bbca      0x2fa /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_line     0x0000000000000000    0x1478d
+ *(.debug_line .debug_line.* .debug_line_end)
+ .debug_line    0x0000000000000000     0xb08d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_line    0x000000000000b08d      0x256 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_line    0x000000000000b2e3      0x100 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .debug_line    0x000000000000b3e3       0x5e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setjmp.os)
+ .debug_line    0x000000000000b441       0x61 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(__longjmp.os)
+ .debug_line    0x000000000000b4a2      0x110 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr.os)
+ .debug_line    0x000000000000b5b2      0x7b6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .debug_line    0x000000000000bd68       0xb1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .debug_line    0x000000000000be19       0x98 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strlen.os)
+ .debug_line    0x000000000000beb1       0x98 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strnlen.os)
+ .debug_line    0x000000000000bf49      0x11a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memchr.os)
+ .debug_line    0x000000000000c063      0x190 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp.os)
+ .debug_line    0x000000000000c1f3      0x1c0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove.os)
+ .debug_line    0x000000000000c3b3      0x116 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset.os)
+ .debug_line    0x000000000000c4c9       0x7b /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mempcpy.os)
+ .debug_line    0x000000000000c544       0xd7 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy.os)
+ .debug_line    0x000000000000c61b       0x7a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy.os)
+ .debug_line    0x000000000000c695       0xc8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rawmemchr.os)
+ .debug_line    0x000000000000c75d      0x45f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-ssse3.os)
+ .debug_line    0x000000000000cbbc      0x10c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp-sse2-unaligned.os)
+ .debug_line    0x000000000000ccc8      0x500 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-sse4.os)
+ .debug_line    0x000000000000d1c8      0x947 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3.os)
+ .debug_line    0x000000000000db0f      0x99b /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3.os)
+ .debug_line    0x000000000000e4aa      0x87d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcpy-ssse3-back.os)
+ .debug_line    0x000000000000ed27      0x882 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-ssse3-back.os)
+ .debug_line    0x000000000000f5a9      0x1b2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000000f75b      0x627 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-ssse3.os)
+ .debug_line    0x000000000000fd82      0x1e2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(stpcpy-sse2-unaligned.os)
+ .debug_line    0x000000000000ff64      0x111 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strchr-sse2-no-bsf.os)
+ .debug_line    0x0000000000010075      0x5cd /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memcmp-ssse3.os)
+ .debug_line    0x0000000000010642       0xeb /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-no-vzeroupper.os)
+ .debug_line    0x000000000001072d      0x160 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx-unaligned-erms.os)
+ .debug_line    0x000000000001088d      0x16e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memmove-avx512-unaligned-erms.os)
+ .debug_line    0x00000000000109fb       0xce /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx2-unaligned-erms.os)
+ .debug_line    0x0000000000010ac9       0xd2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(memset-avx512-unaligned-erms.os)
+ .debug_line    0x0000000000010b9b      0x5a8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_line    0x0000000000011143      0x1ff /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_line    0x0000000000011342      0x224 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_line    0x0000000000011566      0x1de /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_line    0x0000000000011744      0x210 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_line    0x0000000000011954      0x2bf /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .debug_line    0x0000000000011c13       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(uname.os)
+ .debug_line    0x0000000000011c6b      0x154 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_line    0x0000000000011dbf       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getpid.os)
+ .debug_line    0x0000000000011e17       0x2a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .debug_line    0x0000000000011e41      0x202 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_line    0x0000000000012043      0x203 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_line    0x0000000000012246      0x203 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_line    0x0000000000012449       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(open.os)
+ .debug_line    0x00000000000124a3       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(read.os)
+ .debug_line    0x00000000000124fd       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(write.os)
+ .debug_line    0x0000000000012557      0x16d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_line    0x00000000000126c4      0x194 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_line    0x0000000000012858      0x235 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .debug_line    0x0000000000012a8d       0x5a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(close.os)
+ .debug_line    0x0000000000012ae7      0x2ae /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_line    0x0000000000012d95       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(munmap.os)
+ .debug_line    0x0000000000012ded       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mprotect.os)
+ .debug_line    0x0000000000012e45      0x35e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .debug_line    0x00000000000131a3      0x275 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .debug_line    0x0000000000013418       0x81 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-lowlevellock.os)
+ .debug_line    0x0000000000013499       0x8b /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc-cancellation.os)
+ .debug_line    0x0000000000013524      0x15a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_line    0x000000000001367e      0x1f1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .debug_line    0x000000000001386f      0x29f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_line    0x0000000000013b0e       0x58 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(setitimer.os)
+ .debug_line    0x0000000000013b66      0x500 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_line    0x0000000000014066      0x234 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_line    0x000000000001429a      0x20b /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .debug_line    0x00000000000144a5      0x2e8 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_frame
+ *(.debug_frame)
+
+.debug_str      0x0000000000000000    0x3dd3d
+ *(.debug_str)
+ .debug_str     0x0000000000000000    0x2e528 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_str     0x000000000002e528      0x66a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_str     0x000000000002eb92      0x49d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(errno.os)
+ .debug_str     0x000000000002f02f      0x217 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .debug_str     0x000000000002f246     0x2389 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_str     0x00000000000315cf      0x52f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_str     0x0000000000031afe      0x5bc /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_str     0x00000000000320ba      0x553 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_str     0x000000000003260d      0x5db /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_str     0x0000000000032be8      0x66a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .debug_str     0x0000000000033252      0x4dd /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_str     0x000000000003372f      0x1a2 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(environ.os)
+ .debug_str     0x00000000000338d1      0x600 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_str     0x0000000000033ed1      0x5fe /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_str     0x00000000000344cf      0x603 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_str     0x0000000000034ad2      0x518 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_str     0x0000000000034fea      0x56e /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_str     0x0000000000035558      0x67a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .debug_str     0x0000000000035bd2     0x11b6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_str     0x0000000000036d88      0xa09 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .debug_str     0x0000000000037791     0x117c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(prof-freq.os)
+ .debug_str     0x000000000003890d      0x60d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(libc_multiple_threads.os)
+ .debug_str     0x0000000000038f1a      0xb05 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .debug_str     0x0000000000039a1f      0x7ab /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_str     0x000000000003a1ca     0x1a13 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_str     0x000000000003bbdd      0xab1 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_str     0x000000000003c68e      0x5db /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .debug_str     0x000000000003cc69     0x10d4 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_loc      0x0000000000000000    0x34b36
+ *(.debug_loc)
+ .debug_loc     0x0000000000000000    0x2e365 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_loc     0x000000000002e365      0x1fb /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_loc     0x000000000002e560      0x107 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strdup.os)
+ .debug_loc     0x000000000002e667     0x1cca /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_loc     0x0000000000030331      0x141 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_loc     0x0000000000030472      0x1d6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_loc     0x0000000000030648       0x4c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_loc     0x0000000000030694      0x34d /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_loc     0x00000000000309e1       0xbe /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fdopendir.os)
+ .debug_loc     0x0000000000030a9f      0x158 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_loc     0x0000000000030bf7      0x1de /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_loc     0x0000000000030dd5      0x1d3 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_loc     0x0000000000030fa8      0x1de /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_loc     0x0000000000031186      0x13f /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_loc     0x00000000000312c5      0x146 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_loc     0x000000000003140b      0x4cf /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fcntl.os)
+ .debug_loc     0x00000000000318da      0x706 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_loc     0x0000000000031fe0      0x2f6 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(profil.os)
+ .debug_loc     0x00000000000322d6       0x65 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(dl-addr-obj.os)
+ .debug_loc     0x000000000003233b      0x3a0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_loc     0x00000000000326db     0x18a4 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_loc     0x0000000000033f7f      0x26c /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_loc     0x00000000000341eb      0x6f5 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+ .debug_loc     0x00000000000348e0      0x256 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_thread_atexit_impl.os)
+
+.debug_macinfo
+ *(.debug_macinfo)
+
+.debug_weaknames
+ *(.debug_weaknames)
+
+.debug_funcnames
+ *(.debug_funcnames)
+
+.debug_typenames
+ *(.debug_typenames)
+
+.debug_varnames
+ *(.debug_varnames)
+
+.debug_pubtypes
+ *(.debug_pubtypes)
+
+.debug_ranges   0x0000000000000000     0x7d20
+ *(.debug_ranges)
+ .debug_ranges  0x0000000000000000     0x7200 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/dl-allobjs.os
+ .debug_ranges  0x0000000000007200       0x70 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(check_fds.os)
+ .debug_ranges  0x0000000000007270       0x40 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(strcmp.os)
+ .debug_ranges  0x00000000000072b0      0x3f0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cacheinfo.os)
+ .debug_ranges  0x00000000000076a0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(closedir.os)
+ .debug_ranges  0x00000000000076d0       0xd0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(readdir.os)
+ .debug_ranges  0x00000000000077a0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(rewinddir.os)
+ .debug_ranges  0x00000000000077d0       0xd0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(getdents.os)
+ .debug_ranges  0x00000000000078a0       0x90 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(_exit.os)
+ .debug_ranges  0x0000000000007930       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(xstat.os)
+ .debug_ranges  0x0000000000007960       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(fxstat.os)
+ .debug_ranges  0x0000000000007990       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lxstat.os)
+ .debug_ranges  0x00000000000079c0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(lseek64.os)
+ .debug_ranges  0x00000000000079f0       0x30 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(access.os)
+ .debug_ranges  0x0000000000007a20       0xe0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(mmap.os)
+ .debug_ranges  0x0000000000007b00       0xb0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(sigaction.os)
+ .debug_ranges  0x0000000000007bb0       0x90 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(forward.os)
+ .debug_ranges  0x0000000000007c40       0x60 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(exit.os)
+ .debug_ranges  0x0000000000007ca0       0x80 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc_pic.a(cxa_atexit.os)
+
+.debug_macro
+ *(.debug_macro)
+
+.gnu.attributes
+ *(.gnu.attributes)
+OUTPUT(/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/elf/librtld.map.o elf64-x86-64)

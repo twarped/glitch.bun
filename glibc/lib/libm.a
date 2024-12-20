@@ -1,0 +1,4 @@
+/* GNU ld script
+*/
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libm-2.25.a /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libmvec.a )

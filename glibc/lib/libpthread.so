@@ -1,0 +1,5 @@
+/* GNU ld script
+   Use the shared library, but some functions are only in
+   the static library, so try that secondarily.  */
+OUTPUT_FORMAT(elf64-x86-64)
+GROUP ( /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libpthread.so.0 /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc/lib/libpthread_nonshared.a )

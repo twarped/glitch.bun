@@ -1,0 +1,17 @@
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/dummy.o: \
+ /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/dummy.c \
+ ../include/stdc-predef.h \
+ /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc-modules.h \
+ ../include/libc-symbols.h \
+ /rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/config.h \
+ ../sysdeps/generic/symbol-hacks.h
+
+../include/stdc-predef.h:
+
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/libc-modules.h:
+
+../include/libc-symbols.h:
+
+/rbd/pnpm-volume/47620bc9-8017-4d86-9aab-1c45b15b7d12/glibc-2.25/build/config.h:
+
+../sysdeps/generic/symbol-hacks.h:
